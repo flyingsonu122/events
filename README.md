@@ -1,17 +1,19 @@
 <img align="center" src="https://raw.githubusercontent.com/flyingsonu122/events/main/mlsa.jpg">
 
-## fill this form to join the event and get certified https://forms.office.com/r/0DWaAqD1nL
+## fill this form to join the event and get certified from Microsoft Student Ambassador
+
+### https://forms.office.com/r/0DWaAqD1nL
 
 <br><br><br>
 
-### https://www.sonu.live/events/mlsa
+ https://www.sonu.live/events/mlsa
 
 <br><br><br>
 
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
-## Oh, Thanks!
+### Thanks!
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
