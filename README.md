@@ -6,7 +6,7 @@
 
 <br><br><br>
 
- [https://www.sonu.live/events/mlsa](https://www.sonu.live/events/mlsa)
+ [flyingsonu122.github.io/events/mlsa](https://flyingsonu122.github.io/events/mlsa)
 
 <br><br><br>
 
